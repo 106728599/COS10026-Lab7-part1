@@ -6,7 +6,9 @@
     <!-- add other meta -->
 </head>
 <body>
-    <h1>PHP Variables, Arrays and Operators</h1>
+    <header>
+        <h1>PHP Variables, Arrays and Operators</h1>
+    </header>
 
 <?php
     $days = array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
